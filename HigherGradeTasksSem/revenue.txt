@@ -1,2 +1,0 @@
-Time: 23:02:23.154946 | Total Revenue: 0.0
-Time: 23:02:23.173196 | Total Revenue: 25.0
